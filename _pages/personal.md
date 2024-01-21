@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-As a dedicated sports enthusiast, I've been into bodybuilding 💪/powerlifting 🏋️‍♂️ for five years and have competed several times during my undergraduate studies.
+As a dedicated sports enthusiast, I've been into bodybuilding /powerlifting 💪🏋️‍♂️ for five years and have competed several times during my undergraduate studies.
 
 Over the past year, I've also developed a passion for bouldering and rock climbing 🧗‍♂️, which I've been enjoying for six months. A particularly memorable experience was rock climbing at Acadia National Park, with cliffs overlooking the Atlantic Ocean, on a foggy day – it was an unforgettable moment in my life. Additionally, I take pleasure in cycling 🚴, especially when chasing sunrises and sunsets. 
 
@@ -24,7 +24,6 @@ Below is a collection of photos I took during training, riding, and hiking.
     <img src="../assets/img/personal/rock.JPG" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/yellow.png" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/water.png" style="width: 50%; height: auto; flex: 0 0 50%;">
-    <img src="../assets/img/personal/rainbow.png" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/sun.png" style="width: 50%; height: auto; flex: 0 0 50%;">
-    
+    <img src="../assets/img/personal/rainbow.png" style="width: 50%; height: auto; flex: 0 0 50%;">
 </div>

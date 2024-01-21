@@ -2,17 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA
+subtitle: Carpe Diem
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: Xianwei_Zou.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  more_info: >
+    <p><a href='https://www.cmu.edu'>CMU</a></p>
+    <p>5000 Forbes Avenue</p>
+    <p>Pittsburgh, PA 15213</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
