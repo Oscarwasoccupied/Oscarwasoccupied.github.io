@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -22,4 +22,5 @@ social: true # includes social icons at the bottom of the page
 ---
 I am currently a Master student at Carnegie Mellon University Electrical and Computer Engineering Deparment. I am interested in Machine Learning System in general, especially interested in Efficient Machine Leaning, recently interested in Parallel Computing, High Performance Computing and Scientific Machine Learning.
 
-:zap: Fun Fact: As a dedicated sports enthusiast, I've been into bodybuilding :muscle: for five years and recently shifted to powerlifting :weight_lifting_man:. In the past year, I've also enjoyed bouldering :climbing_man: and cycling :bicyclist:. Exercise is a near-daily ritual for me and significantly contributes to my overall well-being and productivity.
+:zap: Fun Fact: see [Personal](/personal/)
+
