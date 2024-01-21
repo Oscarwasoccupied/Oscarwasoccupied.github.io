@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-I am currently a Master student at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, Electrical and Computer Engineering Deparment. I am interested in Machine Learning System in general, especially interested in Efficient Machine Leaning, recently interested in Parallel Computing, High Performance Computing and Scientific Machine Learning.
+I am currently a Master student at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, <a href='https://www.ece.cmu.edu'>Electrical and Computer Engineering</a> Deparment. I am interested in Machine Learning System in general, especially interested in Efficient Machine Leaning, recently interested in Parallel Computing, High Performance Computing and Scientific Machine Learning.
 
 :zap: Fun Fact: see [Personal](/personal/)
 
