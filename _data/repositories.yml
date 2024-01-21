@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Oscarwasoccupied
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Oscarwasoccupied/Interspeech23_Phonemes_and_Visage
+  - Oscarwasoccupied/Wall_Warriors_Game
+  - Oscarwasoccupied/Cache_Lab
+
