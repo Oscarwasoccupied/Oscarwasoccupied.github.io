@@ -23,7 +23,7 @@ Below is a collection of photos I took during training, riding, and hiking.
     <img src="../assets/img/personal/kayak.jpg" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/rock.JPG" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/yellow.png" style="width: 50%; height: auto; flex: 0 0 50%;">
+    <img src="../assets/img/personal/bike.png" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/water.png" style="width: 50%; height: auto; flex: 0 0 50%;">
-    <img src="../assets/img/personal/sun.png" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/rainbow.png" style="width: 50%; height: auto; flex: 0 0 50%;">
 </div>
