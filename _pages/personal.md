@@ -17,7 +17,7 @@ I've also been cutting my own hair 💇‍♂️ for 2 years, a skill I find qui
 
 Below is a collection of photos I took during training, riding, and hiking.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="../assets/img/personal/fa.JPG" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/pitts.JPG" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/kayak.jpg" style="width: 50%; height: auto; flex: 0 0 50%;">
@@ -26,4 +26,40 @@ Below is a collection of photos I took during training, riding, and hiking.
     <img src="../assets/img/personal/bike.png" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/water.png" style="width: 50%; height: auto; flex: 0 0 50%;">
     <img src="../assets/img/personal/rainbow.png" style="width: 50%; height: auto; flex: 0 0 50%;">
+</div> -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/fa.JPG" style="width: 100%; height: auto;">
+        <figcaption>FA Climbing Station Square Bouldering</figcaption>
+    </figure>
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/pitts.JPG" style="width: 100%; height: auto;">
+        <figcaption>East Liberty Presbyterian Church</figcaption>
+    </figure>
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/kayak.jpg" style="width: 100%; height: auto;">
+        <figcaption>Kayak in Sharpsburg</figcaption>
+    </figure>
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/rock.JPG" style="width: 100%; height: auto;">
+        <figcaption>Rock Climbing in Acadia National Park</figcaption>
+    </figure>
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/yellow.png" style="width: 100%; height: auto;">
+        <figcaption>Grand Canyon of the Yellowstone National Park</figcaption>
+    </figure>
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/bike.png" style="width: 100%; height: auto;">
+        <figcaption>Snow Gravel Cycling in Schenley Park</figcaption>
+    </figure>
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/water.png" style="width: 100%; height: auto;">
+        <figcaption>Photo of UPMC from Hot Metal Bridge</figcaption>
+    </figure>
+    <figure style="width: 50%; flex: 0 0 50%;">
+        <img src="../assets/img/personal/rainbow.png" style="width: 100%; height: auto;">
+        <figcaption>Double Rainbow over Flagstaff Hill, CMU</figcaption>
+    </figure>
 </div>
+
