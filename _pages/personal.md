@@ -50,12 +50,12 @@ Below is a collection of photos I took during training, riding, and hiking.
         <figcaption>Grand Canyon of the Yellowstone National Park</figcaption>
     </figure>
     <figure style="width: 50%; flex: 0 0 50%;">
-        <img src="../assets/img/personal/bike.png" style="width: 100%; height: auto;">
-        <figcaption>Snow Gravel Cycling in Schenley Park</figcaption>
+        <img src="../assets/img/personal/ringling.png" style="width: 100%; height: auto;">
+        <figcaption>The Ringling</figcaption>
     </figure>
     <figure style="width: 50%; flex: 0 0 50%;">
         <img src="../assets/img/personal/water.png" style="width: 100%; height: auto;">
-        <figcaption>Photo of UPMC from Hot Metal Bridge</figcaption>
+        <figcaption>the US Steel Tower from Hot Metal Bridge</figcaption>
     </figure>
     <figure style="width: 50%; flex: 0 0 50%;">
         <img src="../assets/img/personal/rainbow.png" style="width: 100%; height: auto;">
