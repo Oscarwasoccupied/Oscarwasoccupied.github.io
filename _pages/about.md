@@ -28,8 +28,8 @@ latest_posts:
 
 I am a Ph.D. student in Computer Engineering at the University of California, Irvine, advised by [Prof. Aparna Chandramowlishwaran](https://www.eng.uci.edu/users/aparna-chandramowlishwaran). I am part of [HPC Forge](https://hpcforge.eng.uci.edu).
 
-I work on foundational generative models for fluid dynamics, focusing on diffusion and flow-based models for learning complex physical systems. My broader interests lie in generative AI for physics, scientific machine learning (SciML), and AI for science, with the goal of building models that are robust, efficient,physically grounded, and scalable across regimes.
+I work on foundational generative models for fluid dynamics, focusing on diffusion and flow-based models for learning complex physical systems. My broader interests lie in generative AI, scientific machine learning (SciML), and AI for science, with the goal of building models that are robust, efficient, physically grounded, and scalable across regimes.
 
 I received my M.S. in Electrical and Computer Engineering from Carnegie Mellon University in 2024 and my B.E. in Telecommunication Engineering from Xidian University in 2021.
 
-Outside the lab, I spend most of my time training. Like in CS, I’m drawn to sports with clear benchmarks, things you can measure, track, and improve. I do endurance sports (rowing, cycling, long hikes) alongside powerlifting, timing the long efforts and logging the weight on the bar.
+Outside the lab, I spend most of my time training. Like in ML, I’m drawn to sports with clear benchmarks, things you can measure, track, and improve. I do endurance sports (rowing, cycling, long hikes) alongside powerlifting, timing the long efforts and logging the weight on the bar. I enjoy long, boring Zone 2 sessions as much as heavy singles. Both teach patience, consistency, and respect for limits.
