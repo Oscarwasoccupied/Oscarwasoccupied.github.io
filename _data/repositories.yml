@@ -1,14 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Oscarwasoccupied
 
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+github_repos: # add your repo names here, e.g. Oscarwasoccupied/my-project
+  - Oscarwasoccupied/Oscarwasoccupied.github.io
