@@ -15,3 +15,9 @@ description: A few fun facts about me.
   - My squat PR is 399 lb, achieved during my fourth year of college—I haven't really pushed beyond that since.
   - My 5-rep deadlift PR is 405 lb, set while I was at CMU.
   - My 3-rep bench press PR is 285 lb.
+- **Other Sports** — I used to do Brazilian Jiu-Jitsu, bouldering, and mountain climbing.
+  - When I am not cycling, I enjoy hiking, it's a great way to clear my mind when I feel stuck.
+- **Favorite Foods** — I enjoy ice cream.
+  - I use ice cream as my reward after a long cardio session.
+  - I finish the whole bucket at once when i open it.
+  - Pistachio ice cream is my favorite.
