@@ -4,5 +4,7 @@
 # cv_pdf: /assets/pdf/Xianwei_Zou_CV_Phd_3_0_.pdf # path to your CV PDF file
 # email: # your email address (add your email here)
 github_username: Oscarwasoccupied
-scholar_userid: # your Google Scholar ID (add if you have one)
-linkedin_username: xianweizou # your LinkedIn username (the part after linkedin.com/in/)
+linkedin_username:
+  value: xianweizou
+  logo: fa-brands fa-linkedin
+# scholar_userid: your_google_scholar_id  # uncomment and set when you have one
