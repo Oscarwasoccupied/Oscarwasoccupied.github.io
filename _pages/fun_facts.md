@@ -12,7 +12,7 @@ description: A few fun facts about me.
   - Since fracturing my ankle, I have cycled 100km every Saturday as part of my rehab.
   - In 2025, I cycled 6,000 km and hiked 500 km.
 - **Powerlifting** — I train for powerlifting (with a 1100+ lb total).
-  - On February 3, 2026, I did 2 reps of 135 lb weighted pull-ups for the first time.
+  - By the end of February 2026, I was able to do 3 sets of 3 reps of 135 lb (60 kg) weighted pull-ups, bringing me one step closer to the elite level.
   - My squat PR is 399 lb, achieved during my fourth year of college, I haven't really pushed beyond that since.
   - My 5-rep deadlift PR is 405 lb, set while I was at CMU.
   - My 3-rep bench press PR is 285 lb.
