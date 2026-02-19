@@ -7,7 +7,7 @@ first_name: Xianwei
 middle_name:
 last_name: Zou
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  # Contact me via LinkedIn.
 description: >
   Ph.D. student in Computer Engineering at UC Irvine. Research in Generative Models for Physics, SciML, AI4Science.
 footer_text: >
