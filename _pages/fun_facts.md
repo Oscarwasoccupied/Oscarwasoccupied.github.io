@@ -49,8 +49,6 @@ _styles: |
     {%
       include figure.liquid
       path="assets/img/fracture.png"
-      alt="Ankle fracture, hospital"
-      caption="Ankle fracture from ambulance to ER."
       class="moments-fig"
     %}
   </div>
@@ -59,8 +57,6 @@ _styles: |
     {%
       include figure.liquid
       path="assets/img/hua.jpg"
-      alt="Hua Shan Mountain"
-      caption="Hua Shan Mountain."
       class="moments-fig"
     %}
   </div>
@@ -69,30 +65,25 @@ _styles: |
     {%
       include figure.liquid
       path="assets/img/hardware.png"
-      alt="Hardware removal surgery"
-      caption="Hardware removal surgery."
       class="moments-fig"
     %}
   </div>
 </div>
+<p class="mb-1 mt-3"><strong>2025 Spring</strong></p>
 <div class="row mb-4">
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Spring</strong> — Water fall hikes, Angeles National Forest</p>
+    <p class="mb-1">Waterfall hikes, Angeles National Forest</p>
     {%
       include figure.liquid
       path="assets/img/falls.png"
-      alt="Water fall hikes Angeles National Forest"
-      caption="Water fall hikes, Angeles National Forest."
       class="moments-fig"
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Spring</strong> — Chino Hills</p>
+    <p class="mb-1">Chino Hills</p>
     {%
       include figure.liquid
       path="assets/img/greens.png"
-      alt="Chino Hills"
-      caption="Chino Hills."
       class="moments-fig"
     %}
   </div>
@@ -101,8 +92,6 @@ _styles: |
     {%
       include figure.liquid
       path="assets/img/climb.png"
-      alt="Mt. Baldy climb"
-      caption="Mt. Baldy climb."
       class="moments-fig"
     %}
   </div>
