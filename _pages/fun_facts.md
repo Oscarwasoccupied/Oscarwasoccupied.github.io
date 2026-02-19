@@ -28,3 +28,71 @@ description: A few fun facts about me.
   - I use ice cream as my reward after a long cardio session.
   - I finish the whole bucket at once when i open it.
   - Pistachio ice cream is my favorite.
+
+---
+
+## Moments (by time)
+
+### 2024 Winter
+
+**Ankle fracture — ambulance to ER**
+
+{%
+  include figure.liquid
+  path="assets/img/fracture.png"
+  alt="Ankle fracture, hospital"
+  caption="Ankle fracture from ambulance to ER."
+%}
+
+### 2024 Summer
+
+**Hua Shan Mountain**
+
+{%
+  include figure.liquid
+  path="assets/img/hua.jpg"
+  alt="Hua Shan Mountain"
+  caption="Hua Shan Mountain."
+%}
+
+### 2025 Winter
+
+**Hardware removal surgery**
+
+{%
+  include figure.liquid
+  path="assets/img/hardware.png"
+  alt="Hardware removal surgery"
+  caption="Hardware removal surgery."
+%}
+
+### 2025 Spring
+
+**Water fall hikes — Angeles National Forest**
+
+{%
+  include figure.liquid
+  path="assets/img/falls.png"
+  alt="Water fall hikes Angeles National Forest"
+  caption="Water fall hikes, Angeles National Forest, Spring."
+%}
+
+**Chino Hills**
+
+{%
+  include figure.liquid
+  path="assets/img/greens.png"
+  alt="Chino Hills"
+  caption="Chino Hills."
+%}
+
+### 2025 Summer
+
+**Mt. Baldy climb**
+
+{%
+  include figure.liquid
+  path="assets/img/climb.png"
+  alt="Mt. Baldy climb"
+  caption="Mt. Baldy climb, Summer."
+%}
