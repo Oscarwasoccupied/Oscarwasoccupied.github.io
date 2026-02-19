@@ -465,18 +465,11 @@ ninja.data = [{
           window.open("https://github.com/Oscarwasoccupied", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/xianweizou", "_blank");
+          window.open("https://www.linkedin.com/in/{"value"=>"xianweizou", "logo"=>"fa-brands fa-linkedin"}", "_blank");
         },
       },{
       id: 'light-theme',
