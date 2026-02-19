@@ -5,6 +5,16 @@ title: fun facts
 nav: true
 nav_order: 4
 description: A few fun facts about me.
+_styles: |
+  .moments-fig picture,
+  .moments-fig img {
+    max-height: 280px;
+    object-fit: cover;
+    width: 100%;
+  }
+  .moments-fig figcaption {
+    font-size: 0.9rem;
+  }
 ---
 
 - **Endurance Sports** — I enjoy rowing and cycling.
@@ -33,66 +43,67 @@ description: A few fun facts about me.
 
 ## Moments (by time)
 
-### 2024 Winter
-
-**Ankle fracture — ambulance to ER**
-
-{%
-  include figure.liquid
-  path="assets/img/fracture.png"
-  alt="Ankle fracture, hospital"
-  caption="Ankle fracture from ambulance to ER."
-%}
-
-### 2024 Summer
-
-**Hua Shan Mountain**
-
-{%
-  include figure.liquid
-  path="assets/img/hua.jpg"
-  alt="Hua Shan Mountain"
-  caption="Hua Shan Mountain."
-%}
-
-### 2025 Winter
-
-**Hardware removal surgery**
-
-{%
-  include figure.liquid
-  path="assets/img/hardware.png"
-  alt="Hardware removal surgery"
-  caption="Hardware removal surgery."
-%}
-
-### 2025 Spring
-
-**Water fall hikes — Angeles National Forest**
-
-{%
-  include figure.liquid
-  path="assets/img/falls.png"
-  alt="Water fall hikes Angeles National Forest"
-  caption="Water fall hikes, Angeles National Forest, Spring."
-%}
-
-**Chino Hills**
-
-{%
-  include figure.liquid
-  path="assets/img/greens.png"
-  alt="Chino Hills"
-  caption="Chino Hills."
-%}
-
-### 2025 Summer
-
-**Mt. Baldy climb**
-
-{%
-  include figure.liquid
-  path="assets/img/climb.png"
-  alt="Mt. Baldy climb"
-  caption="Mt. Baldy climb, Summer."
-%}
+<div class="row mb-4">
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2024 Winter</strong> — Ankle fracture, ambulance to ER</p>
+    {%
+      include figure.liquid
+      path="assets/img/fracture.png"
+      alt="Ankle fracture, hospital"
+      caption="Ankle fracture from ambulance to ER."
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2024 Summer</strong> — Hua Shan Mountain</p>
+    {%
+      include figure.liquid
+      path="assets/img/hua.jpg"
+      alt="Hua Shan Mountain"
+      caption="Hua Shan Mountain."
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Winter</strong> — Hardware removal surgery</p>
+    {%
+      include figure.liquid
+      path="assets/img/hardware.png"
+      alt="Hardware removal surgery"
+      caption="Hardware removal surgery."
+      class="moments-fig"
+    %}
+  </div>
+</div>
+<div class="row mb-4">
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Spring</strong> — Water fall hikes, Angeles National Forest</p>
+    {%
+      include figure.liquid
+      path="assets/img/falls.png"
+      alt="Water fall hikes Angeles National Forest"
+      caption="Water fall hikes, Angeles National Forest."
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Spring</strong> — Chino Hills</p>
+    {%
+      include figure.liquid
+      path="assets/img/greens.png"
+      alt="Chino Hills"
+      caption="Chino Hills."
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Summer</strong> — Mt. Baldy climb</p>
+    {%
+      include figure.liquid
+      path="assets/img/climb.png"
+      alt="Mt. Baldy climb"
+      caption="Mt. Baldy climb."
+      class="moments-fig"
+    %}
+  </div>
+</div>
