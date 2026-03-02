@@ -28,7 +28,7 @@ latest_posts:
 
 I am a Ph.D. student in Computer Engineering at the University of California, Irvine, advised by [Prof. Aparna Chandramowlishwaran](https://www.eng.uci.edu/users/aparna-chandramowlishwaran). I am part of [HPC Forge](https://hpcforge.eng.uci.edu).
 
-I work on foundational generative models for complex physical systems, focusing on diffusion and flow-based models for fluid dynamics. My broader interests lie in generative AI (**GenAI**), scientific machine learning (**SciML**), and AI for science (**AI4Science**), with the goal of building models that are robust, efficient, physically grounded, and scalable across regimes. I am motivated by problems that are both theoretically grounded and practically impactful.
+I work on foundational generative models for spatiotemporal physical systems, focusing on diffusion and flow-based models for fluid dynamics. My broader interests lie in generative AI (**GenAI**), scientific machine learning (**SciML**), and AI for science (**AI4Science**), with the goal of building models that are robust, efficient, physically grounded, and scalable across regimes. I am motivated by problems that are both theoretically grounded and practically impactful.
 
 I received my M.S. in Electrical and Computer Engineering from Carnegie Mellon University in 2024 and my B.E. in Telecommunication Engineering from Xidian University in 2021.
 
