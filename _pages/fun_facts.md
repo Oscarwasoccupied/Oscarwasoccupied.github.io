@@ -80,7 +80,6 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-  <p class="mb-1"><strong>2025 Spring</strong></p>
     <p class="mb-1">Chino Hills</p>
     {%
       include figure.liquid
@@ -93,6 +92,59 @@ _styles: |
     {%
       include figure.liquid
       path="assets/img/climb.png"
+      class="moments-fig"
+    %}
+  </div>
+</div>
+<p class="mb-1 mt-3"><strong>2026 Spring</strong></p>
+<div class="row mb-4">
+  <div class="col-md-4 mb-4">
+    <p class="mb-1">My first run in almost 2 years</p>
+    {%
+      include figure.liquid
+      path="assets/img/Run.jpeg"
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1">My first road bike and fitting</p>
+    {%
+      include figure.liquid
+      path="assets/img/Domane.jpg"
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1">My first 100km ride this year with my Domane</p>
+    {%
+      include figure.liquid
+      path="assets/img/ride.jpg"
+      class="moments-fig"
+    %}
+  </div>
+</div>
+<div class="row mb-4">
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Summer</strong> — Mt. Baldy view 1</p>
+    {%
+      include figure.liquid
+      path="assets/img/peak.jpg"
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Summer</strong> — Mt. Baldy view 2</p>
+    {%
+      include figure.liquid
+      path="assets/img/baldy.jpg"
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Winter</strong> — SD sunset sea view during NeurIPS</p>
+    {%
+      include figure.liquid
+      path="assets/img/sun.jpg"
       class="moments-fig"
     %}
   </div>
