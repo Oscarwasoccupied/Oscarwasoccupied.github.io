@@ -12,6 +12,19 @@ profile:
     <p>Engineering Hall 308 5200</p>
     <p>Irvine, CA 92697</p>
 
+selected_awards: true # includes a list of selected awards
+awards:
+  - name: "UC Irvine EECS Fellowship"
+    date: "Jan 2026"
+  - name: "UCI–TAU Conference People's Choice Poster Award"
+    date: "Sept 2025"
+  - name: "UC Irvine Graduate Dean's Recruitment Fellowship"
+    date: "Mar 2024"
+  - name: "XDU Outstanding Graduates"
+    date: "Jun 2021"
+  - name: "National Scholarship (0.2% of students, the highest national-level scholarship)"
+    date: "Oct 2020"
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -32,4 +45,4 @@ I work on foundational generative models for spatiotemporal physical systems, fo
 
 I received my M.S. in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu) in 2024 and my B.E. in Telecommunication Engineering from [Xidian University](https://en.xidian.edu.cn) in 2021.
 
-Outside the lab, I spend most of my time training. Like in ML, I’m drawn to sports with clear benchmarks, things you can measure, track, and improve. I do endurance sports (rowing 🚣‍♂️, cycling 🚴‍♂️, long hikes 🥾, trail running 🌋) alongside powerlifting 🏋️‍♂️, timing the long efforts and logging the weight on the bar. Training teaches me patience, consistency, progressive overload, and disciplined risk-taking. Learning to respect and manage my body carries over into everything else I do. Refers to [fun facts](/fun-facts) for more if you wanna know more about me outside the lab.
+Outside the lab, I spend most of my time training. Like in ML, I’m drawn to sports with clear benchmarks, things you can measure, track, and improve. I do endurance sports (rowing 🚣‍♂️, cycling 🚴‍♂️, long hikes 🥾, trail running 🌋) alongside powerlifting 🏋️‍♂️, timing the long efforts and logging the weight on the bar. Training teaches me patience, consistency, and incremental progress. See [fun facts](/fun-facts) for more.

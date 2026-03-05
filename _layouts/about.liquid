@@ -56,6 +56,12 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Selected awards -->
+    {% if page.selected_awards and page.awards %}
+      <h2>selected awards</h2>
+      {% include selected_awards.liquid %}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>

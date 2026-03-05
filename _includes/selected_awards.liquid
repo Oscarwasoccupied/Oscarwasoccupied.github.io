@@ -1,0 +1,8 @@
+<ul class="list-unstyled">
+  {% for award in page.awards %}
+    <li class="d-flex justify-content-between align-items-baseline mb-2">
+      <span>{{ award.name }}</span>
+      <span class="text-muted text-nowrap ms-2">{{ award.date }}</span>
+    </li>
+  {% endfor %}
+</ul>
