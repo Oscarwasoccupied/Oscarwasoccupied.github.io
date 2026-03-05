@@ -30,6 +30,6 @@ I am a Ph.D. student in Computer Engineering at the University of California, Ir
 
 I work on foundational generative models for spatiotemporal physical systems, focusing on diffusion and flow-based models for fluid dynamics. My broader interests lie in generative AI (**GenAI**), scientific machine learning (**SciML**), and AI for science (**AI4Science**), with the goal of building models that are robust, efficient, physically grounded, and scalable across regimes. I am motivated by problems that are both theoretically grounded and practically impactful.
 
-I received my M.S. in Electrical and Computer Engineering from Carnegie Mellon University in 2024 and my B.E. in Telecommunication Engineering from Xidian University in 2021.
+I received my M.S. in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu) in 2024 and my B.E. in Telecommunication Engineering from [Xidian University](https://en.xidian.edu.cn) in 2021.
 
 Outside the lab, I spend most of my time training. Like in ML, I’m drawn to sports with clear benchmarks, things you can measure, track, and improve. I do endurance sports (rowing 🚣‍♂️, cycling 🚴‍♂️, long hikes 🥾, trail running 🌋) alongside powerlifting 🏋️‍♂️, timing the long efforts and logging the weight on the bar. Training teaches me patience, consistency, progressive overload, and disciplined risk-taking. Learning to respect and manage my body carries over into everything else I do. Refers to [fun facts](/fun-facts) for more if you wanna know more about me outside the lab.

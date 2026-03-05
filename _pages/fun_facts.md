@@ -41,7 +41,7 @@ _styles: |
 
 ---
 
-## Moments (by time)
+## Moments
 
 <div class="row mb-4">
   <div class="col-md-4 mb-4">
@@ -80,6 +80,7 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
+  <p class="mb-1"><strong>2025 Spring</strong></p>
     <p class="mb-1">Chino Hills</p>
     {%
       include figure.liquid
