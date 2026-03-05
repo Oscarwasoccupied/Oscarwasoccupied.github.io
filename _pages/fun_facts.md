@@ -45,15 +45,6 @@ _styles: |
 
 <div class="row mb-4">
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2024 Winter</strong></p>
-    <p class="mb-1">Ankle fracture, ambulance to ER</p>
-    {%
-      include figure.liquid
-      path="assets/img/fracture.png"
-      class="moments-fig"
-    %}
-  </div>
-  <div class="col-md-4 mb-4">
     <p class="mb-1"><strong>2024 Summer</strong></p>
     <p class="mb-1">Hua Shan Mountain</p>
     {%
@@ -63,16 +54,14 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Winter</strong></p>
-    <p class="mb-1">Hardware removal surgery</p>
+    <p class="mb-1"><strong>2024 Winter</strong></p>
+    <p class="mb-1">Ankle fracture, ambulance to ER</p>
     {%
       include figure.liquid
-      path="assets/img/hardware.png"
+      path="assets/img/fracture.png"
       class="moments-fig"
     %}
   </div>
-</div>
-<div class="row mb-4">
   <div class="col-md-4 mb-4">
     <p class="mb-1"><strong>2025 Spring</strong></p>
     <p class="mb-1">Waterfall hikes, Angeles National Forest</p>
@@ -82,6 +71,8 @@ _styles: |
       class="moments-fig"
     %}
   </div>
+</div>
+<div class="row mb-4">
   <div class="col-md-4 mb-4">
     <p class="mb-1"><strong>2025 Spring</strong></p>
     <p class="mb-1">Chino Hills</p>
@@ -97,6 +88,15 @@ _styles: |
     {%
       include figure.liquid
       path="assets/img/climb.png"
+      class="moments-fig"
+    %}
+  </div>
+  <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Winter</strong></p>
+    <p class="mb-1">Hardware removal surgery</p>
+    {%
+      include figure.liquid
+      path="assets/img/hardware.png"
       class="moments-fig"
     %}
   </div>
