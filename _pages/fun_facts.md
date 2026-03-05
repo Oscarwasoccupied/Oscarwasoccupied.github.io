@@ -45,7 +45,8 @@ _styles: |
 
 <div class="row mb-4">
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2024 Winter</strong> — Ankle fracture, ambulance to ER</p>
+    <p class="mb-1"><strong>2024 Winter</strong></p>
+    <p class="mb-1">Ankle fracture, ambulance to ER</p>
     {%
       include figure.liquid
       path="assets/img/fracture.png"
@@ -53,7 +54,8 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2024 Summer</strong> — Hua Shan Mountain</p>
+    <p class="mb-1"><strong>2024 Summer</strong></p>
+    <p class="mb-1">Hua Shan Mountain</p>
     {%
       include figure.liquid
       path="assets/img/hua.jpg"
@@ -61,7 +63,8 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Winter</strong> — Hardware removal surgery</p>
+    <p class="mb-1"><strong>2025 Winter</strong></p>
+    <p class="mb-1">Hardware removal surgery</p>
     {%
       include figure.liquid
       path="assets/img/hardware.png"
@@ -69,9 +72,9 @@ _styles: |
     %}
   </div>
 </div>
-<p class="mb-1 mt-3"><strong>2025 Spring</strong></p>
 <div class="row mb-4">
   <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Spring</strong></p>
     <p class="mb-1">Waterfall hikes, Angeles National Forest</p>
     {%
       include figure.liquid
@@ -80,6 +83,7 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2025 Spring</strong></p>
     <p class="mb-1">Chino Hills</p>
     {%
       include figure.liquid
@@ -88,7 +92,8 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Summer</strong> — Mt. Baldy climb</p>
+    <p class="mb-1"><strong>2025 Summer</strong></p>
+    <p class="mb-1">Mt. Baldy climb</p>
     {%
       include figure.liquid
       path="assets/img/climb.png"
@@ -96,9 +101,9 @@ _styles: |
     %}
   </div>
 </div>
-<p class="mb-1 mt-3"><strong>2026 Spring</strong></p>
 <div class="row mb-4">
   <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2026 Spring</strong></p>
     <p class="mb-1">My first run in almost 2 years</p>
     {%
       include figure.liquid
@@ -107,6 +112,7 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2026 Spring</strong></p>
     <p class="mb-1">My first road bike and fitting</p>
     {%
       include figure.liquid
@@ -115,6 +121,7 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
+    <p class="mb-1"><strong>2026 Spring</strong></p>
     <p class="mb-1">First 100km ride with my Domane</p>
     {%
       include figure.liquid
@@ -125,7 +132,8 @@ _styles: |
 </div>
 <div class="row mb-4">
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Summer</strong> — Mt. Baldy view 1</p>
+    <p class="mb-1"><strong>2025 Summer</strong></p>
+    <p class="mb-1">Mt. Baldy view 1</p>
     {%
       include figure.liquid
       path="assets/img/peak.jpg"
@@ -133,7 +141,8 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Summer</strong> — Mt. Baldy view 2</p>
+    <p class="mb-1"><strong>2025 Summer</strong></p>
+    <p class="mb-1">Mt. Baldy view 2</p>
     {%
       include figure.liquid
       path="assets/img/baldy.jpg"
@@ -141,7 +150,8 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Winter</strong> — SD sunset sea view</p>
+    <p class="mb-1"><strong>2025 Winter</strong></p>
+    <p class="mb-1">SD sunset sea view during NeurIPS</p>
     {%
       include figure.liquid
       path="assets/img/sun.jpg"
