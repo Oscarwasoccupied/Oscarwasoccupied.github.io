@@ -115,7 +115,7 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1">My first 100km ride this year with my Domane</p>
+    <p class="mb-1">First 100km ride with my Domane</p>
     {%
       include figure.liquid
       path="assets/img/ride.jpg"
@@ -141,7 +141,7 @@ _styles: |
     %}
   </div>
   <div class="col-md-4 mb-4">
-    <p class="mb-1"><strong>2025 Winter</strong> — SD sunset sea view during NeurIPS</p>
+    <p class="mb-1"><strong>2025 Winter</strong> — SD sunset sea view</p>
     {%
       include figure.liquid
       path="assets/img/sun.jpg"
