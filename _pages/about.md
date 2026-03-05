@@ -22,7 +22,7 @@ awards:
     date: "Mar 2024"
   - name: "XDU Outstanding Graduates"
     date: "Jun 2021"
-  - name: "National Scholarship (0.2% of students, the highest national-level scholarship)"
+  - name: "National Scholarship (0.2% of students, the highest national-level scholarship in China)"
     date: "Oct 2020"
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
